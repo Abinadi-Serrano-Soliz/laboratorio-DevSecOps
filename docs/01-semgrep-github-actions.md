@@ -1,4 +1,4 @@
-# Laboratorio 1: Semgrep con GitHub Actions
+# Laboratorio 3: Semgrep con GitHub Actions
 
 ## Propósito
 
